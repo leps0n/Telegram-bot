@@ -1,4 +1,4 @@
-![UseCase](../use_case/use_case.png)
+![UseCase](../use_case/Use_case.png)
 
 # Cодержание
 1 [Актеры](#1) <br>
